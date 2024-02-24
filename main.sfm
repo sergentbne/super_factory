@@ -1,0 +1,10 @@
+name "Inscriber program"
+
+every 20 ticks do
+    input from tempstorage
+    output ae2:printed_calculation_*processor to inscriber top side
+    output ae2:printed_engineering_processor to inscriber top side
+    output ae2:printed_logic_processor to inscriber top side
+    output ae2:printed_silicon to inscriber bottom side
+    output minecraft:redstone to inscriber east side
+end 
