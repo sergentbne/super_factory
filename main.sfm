@@ -7,6 +7,10 @@ every 20 ticks do
     output ae2:printed_logic_processor to inscriber top side
     output ae2:printed_silicon to inscriber bottom side
     output minecraft:redstone to inscriber east side
+    output ae2:fluix_crystal to inscriber east side
+    output ae2:certus_quartz_crystal to inscriber east side
+
+
 end 
 
 --lolol
