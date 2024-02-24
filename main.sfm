@@ -8,3 +8,5 @@ every 20 ticks do
     output ae2:printed_silicon to inscriber bottom side
     output minecraft:redstone to inscriber east side
 end 
+
+--lolol
